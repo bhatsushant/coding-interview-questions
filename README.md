@@ -30,3 +30,5 @@ Save the index.js file for that particular exercise (For ex. save the file index
 **7. Anagrams** - Check to see if two provided strings are anagrams of eachother. `(exercises/anagrams)`
 
 **8. Sentence Capitalization** - Write a function that accepts a string. The function should capitalize the first letter of each word in the string then return the capitalized string. `(exercises/capitalize)`
+
+**9. Printing Steps** - Write a function that accepts a positive number N. The function should console log a step shape with N levels using the # character. `(exercises/steps)`
